@@ -2,18 +2,3 @@ mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -Darchety
 
 
 
-my-app
-|-- pom.xml
-`-- src
-    |-- main
-    |   `-- java
-    |       `-- com
-    |           `-- mycompany
-    |               `-- app
-    |                   `-- App.java
-    `-- test
-        `-- java
-            `-- com
-                `-- mycompany
-                    `-- app
-                        `-- AppTest.java
